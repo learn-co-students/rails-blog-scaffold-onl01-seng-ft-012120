@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+<<<<<<< HEAD
   resources :posts
 
   # The priority is based upon order of creation: first created -> highest priority.
@@ -55,4 +56,8 @@ Rails.application.routes.draw do
   #     # (app/controllers/admin/products_controller.rb)
   #     resources :products
   #   end
+=======
+  resources :apartments
+  # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
+>>>>>>> d3c559664fbac49a9eeb58fa371fedf108468de3
 end
